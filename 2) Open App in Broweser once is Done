@@ -1,0 +1,3 @@
+ //The app gonna open in a new window
+cd FolderName/
+ng serve -o
