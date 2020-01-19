@@ -1,0 +1,5 @@
+// Terminal 
+
+ng generate c shared/header --spec=false
+
+//--spec=false is to prevent the creation of the unitary testing file
