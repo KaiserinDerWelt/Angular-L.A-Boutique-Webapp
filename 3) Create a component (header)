@@ -1,0 +1,12 @@
+// Terminal 
+
+ng generate c shared/header --spec=false
+
+//--spec=false is to prevent the creation of the unitary testing file
+
+//It creates me the new component and his respective files
+
+//CREATE src/app/shared/header/header.component.css (0 bytes)
+//CREATE src/app/shared/header/header.component.html (21 bytes)
+//CREATE src/app/shared/header/header.component.ts (269 bytes)
+//UPDATE src/app/app.module.ts (482 bytes)
