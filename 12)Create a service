@@ -1,0 +1,2 @@
+ng generate s services/infoPagina --spec=false
+
