@@ -1,1 +1,1 @@
- ng generate c pages/about spec=false
+ng generate c Folder/Body --spec=false
