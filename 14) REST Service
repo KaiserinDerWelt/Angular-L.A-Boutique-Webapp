@@ -1,0 +1,6 @@
+//firebase.google.com 
+//saves a database of objects of javascript
+
+1) Create new product (Project_Name).
+2) Database --> Real time database -->Create database --> Test Mode.
+3)Add classes and attributes.
