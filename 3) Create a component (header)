@@ -10,3 +10,4 @@ ng generate c shared/header --spec=false
 //CREATE src/app/shared/header/header.component.html (21 bytes)
 //CREATE src/app/shared/header/header.component.ts (269 bytes)
 //UPDATE src/app/app.module.ts (482 bytes)
+ 
